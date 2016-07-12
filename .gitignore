@@ -1,0 +1,5 @@
+bin/
+app/
+pkg/
+!/**/*.go
+!/**/main.go
